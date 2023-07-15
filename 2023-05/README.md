@@ -14,3 +14,9 @@ Services:
 * 9.20€ CPX21 Hetzner Cloud Server for MSYS2 GNOME CI + snapshot + IPv4 IP
 
 Sum: 50.15€
+
+## Paid by https://github.com/elieux
+
+* 16.17€ domain renewal for: mingw-w64.org
+
+Sum: 16.17€
