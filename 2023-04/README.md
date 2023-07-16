@@ -11,6 +11,5 @@ Donations:
 Services:
 
 * 3.84€ BX11 Hetzner Storage Box for msys2.org server backup
-* 9.20€ CPX21 Hetzner Cloud Server for MSYS2 GNOME CI + snapshot + IPv4 IP
 
-Sum: 50.35€
+Sum: 41.15€
