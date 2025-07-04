@@ -18,7 +18,7 @@ Sum: 41.39€
 
 Services:
 
-* 19.17€ domain renewal for: mingw-w64.net
+* $19.17 domain renewal for: mingw-w64.net
 
-Sum: 19.17€
+Sum: $19.17
 

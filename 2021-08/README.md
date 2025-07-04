@@ -4,6 +4,6 @@
 
 Services:
 
-* 14.17€ domain transfer+renewal for: mingw-w64.org
+* $14.17 domain transfer+renewal for: mingw-w64.org
 
-Sum: 14.17€
+Sum: $14.17

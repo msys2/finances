@@ -18,6 +18,6 @@ Sum: 41.91€
 
 Services:
 
-* 54.51€ domain renewal for: msys2.com, msys2.net, msys2.org
+* $54.51 domain renewal for: msys2.com, msys2.net, msys2.org
 
-Sum: 54.51€
+Sum: $54.51

@@ -16,6 +16,6 @@ Sum: 40.95€
 
 ## Paid by https://github.com/elieux
 
-* 16.17€ domain renewal for: mingw-w64.org
+* $16.17 domain renewal for: mingw-w64.org
 
-Sum: 16.17€
+Sum: $16.17
