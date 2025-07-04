@@ -13,3 +13,11 @@ Services:
 * 3.84€ BX11 Hetzner Storage Box for msys2.org server backup
 
 Sum: 42.19€
+
+## Paid by https://github.com/elieux
+
+Services:
+
+* 20.17€ domain renewal for: mingw-w64.net
+
+Sum: 20.17€
