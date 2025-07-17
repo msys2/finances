@@ -14,3 +14,10 @@ Services:
 
 Sum: 40.81€
 
+## Paid by https://github.com/elieux
+
+Services:
+
+* $20.19 domain renewal for: mingw-w64.net
+
+Sum: $20.19
