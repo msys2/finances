@@ -10,6 +10,7 @@ Donations:
 
 Services:
 
-* 3.84€ BX11 Hetzner Storage Box for msys2.org server backup
+* 6.17€ BX11/BX21 Hetzner Storage Box for msys2.org server backup
+  (had to switch to BX21 for now due to space issues)
 
-Sum: 40.97€
+Sum: 43.3€
